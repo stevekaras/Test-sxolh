@@ -197,7 +197,7 @@ main > section {
   color: rgb(1, 0, 0);
 }
 
-.sec-title h2:after {
+/* .sec-title h2:after {
   border-bottom: 1px solid #000304;
   content: '';
   display: block;
@@ -209,7 +209,7 @@ main > section {
 
 .sec-title.white h2:after {
   border-bottom: 1px solid #fff;
-}
+} */
 
 .parallax {
   background-attachment: fixed;
